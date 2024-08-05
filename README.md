@@ -1,2 +1,2 @@
 # landing-page
-Vich's landing page
+Odin project landing page
